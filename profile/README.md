@@ -4,4 +4,4 @@ Wir sind ein Team von drei Leuten die einen Originalgetreuen Flugsimulator von d
 
 Wir haben alle unsere Sachen online auf unserer Webseite dokumentiert, der link zu dieser Webseite lautet: open320neo.justsomeone.ch
 
-Falls du uns unterstützen möchtest, gehe gerne auf open320neo.justsomeone.ch/spende und teile einen Beitrag an unseren Flugsimulator
+Falls du uns unterstützen möchtest, gehe gerne auf open320neo.ch/spende und teile einen Beitrag an unseren Flugsimulator
